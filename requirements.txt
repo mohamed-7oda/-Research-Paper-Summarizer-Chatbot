@@ -1,0 +1,29 @@
+# Backend
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+python-dotenv==1.0.1
+requests==2.32.3
+
+# LangChain & AI Integrations
+langchain==0.2.7
+langchain-community==0.2.7
+langchain-cohere==0.1.5
+langchain-google-genai==0.0.11
+chromadb==0.5.5
+cohere==5.5.8
+google-generativeai==0.6.0
+
+# PDF & Text Processing
+pypdf==4.3.0
+reportlab==4.2.2
+python-docx==1.1.2
+
+# Frontend
+streamlit==1.37.0
+
+# TTS
+edge-tts==6.1.12
+
+# Utilities
+regex==2024.7.24
