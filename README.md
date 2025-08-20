@@ -172,13 +172,3 @@ Translate given text into a target language.
 * Enhanced **multi-document summaries**
 * Advanced **citation tracking** in answers
 * **Fine-tuned academic style summaries**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-👨‍💻 Developed by **Mohamed Mahmoud Emam**
